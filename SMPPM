@@ -1,0 +1,2 @@
+Developed the Stock Market Price Prediction Model (S.M.P.P.M) to forecast Apple Inc.'s stock prices using 40+ years of historical data. Implemented machine learning techniques like Linear Regression, Lasso, Decision Trees, and Polynomial Regression. Achieved actionable insights through feature engineering, model evaluation (RMSE, R²), and visualization. Future scope includes real-time data and advanced ensemble methods.
+
